@@ -1,7 +1,7 @@
 - 👋 | habari | sannu | здравей | नमस्कार | Witam | سلام| hello :earth_africa: :earth_asia: :earth_americas: 
-- 👀 We design and build language technology for low resource and indigenous speakers, with the first 50 languages covering up to 2.8 billion speakers.
-- 🌱 Our models train, and extend, Universal Dependencies annotated corpus by: parsing CoNLL-U annotated corpus precisely into PyTorch bi-LSTM models that train on Intel Gaudi2 GPUs.
-- :microscope: We train local language foundation models for lexical and syntactic performance that take into account specific morphological features for each language / dialect.
+- 👀 We design and build language technology for low resource and indigenous speakers. The first 50 languages cover 2.8 billion speakers.
+- 🌱 Our models train on Universal Dependencies annotated corpus: parsing CoNLL-U annotated corpus precisely into PyTorch bi-LSTM models that train on Intel Gaudi2 GPUs.
+- :microscope: We train local language foundation models for lexical and syntactic performance, prioritising features of morphologically complex languages / dialects.
 - :wrench: Foundation models are further developed to be useful: named entity resolution, sentiment analysis, semantic role labeling, question and answer, information extraction and search.
 - :astonished: Fine tuning is then exposed to extend for customer corpus.
 - :satellite: We deploy seamlessly to Cloud, Desktop and Mobile (Android) using Intel openVINO.
