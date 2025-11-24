@@ -1,4 +1,4 @@
-- 👋 habari | sannu | здравей | नमस्कार | Witam | سلام| hello :earth_africa: :earth_asia: :earth_americas: 
+- 👋 | habari | sannu | здравей | नमस्कार | Witam | سلام| hello :earth_africa: :earth_asia: :earth_americas: 
 - 👀 We design and build language technology for low resource and indigenous speakers, with the first 50 languages covering up to 2.8 billion speakers.
 - 🌱 Our models train, and extend, Universal Dependencies annotated corpus by: parsing CoNLL-U annotated corpus precisely into PyTorch bi-LSTM models that train on Intel Gaudi2 GPUs.
 - :microscope: We train local language foundation models for lexical and syntactic performance that take into account specific morphological features for each language / dialect.
