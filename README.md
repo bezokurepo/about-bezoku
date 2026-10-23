@@ -7,7 +7,7 @@
 - :satellite: We deploy seamlessly to Desktop and Mobile (Android) using Intel openVINO. We design for older CPUs and devices (minimum of 2 GB RAM). Each repo will have localized instructions, apologies it will take some time to implement 🤝
 - 👩‍💻 We joined the Intel Liftoff program in early 2024 and the Denvr Ai Ascend program in August 2025.
 - :unlock: We contribute dependency parsers as open sourced - see license.txt for details in each section as some are not licensed for commercial usage.
-- 📫 You can easily search @bezokurepo for models and data in the github search bar. If you need support, email ian.gilmour@bezoku.ai
+- 📫 You can easily search @bezokurepo for models and data in the github search bar. If you need support, email ian.gilmour@bezoku.ai and download the app by visiting https://app.bezoku.ai/
 
 
 <!---
